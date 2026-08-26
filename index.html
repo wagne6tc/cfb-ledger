@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CFB Model — Track Record</title>
+<style>
+:root{
+  --bg:#f7f8fa; --panel:#ffffff; --line:#e3e6ec; --ink:#12151a; --muted:#5c6470;
+  --dim:#8b93a1; --accent:#0a8f4d; --win:#0a8f4d; --loss:#c2384a; --push:#8b93a1;
+  --shadow:0 1px 2px rgba(16,20,28,.05),0 4px 14px rgba(16,20,28,.05);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#0e1116; --panel:#151a21; --line:#242c37; --ink:#e8ecf2; --muted:#9aa3b1;
+    --dim:#69727f; --accent:#3ddc84; --win:#3ddc84; --loss:#ff6b7f; --push:#8b93a1;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 14px rgba(0,0,0,.25);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0e1116; --panel:#151a21; --line:#242c37; --ink:#e8ecf2; --muted:#9aa3b1;
+  --dim:#69727f; --accent:#3ddc84; --win:#3ddc84; --loss:#ff6b7f; --push:#8b93a1;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 14px rgba(0,0,0,.25);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:940px;margin:0 auto;padding:34px 20px 80px}
+.eyebrow{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--accent);font-weight:700}
+h1{font-size:29px;line-height:1.2;margin:8px 0 10px;letter-spacing:-.02em}
+h2{font-size:17px;margin:34px 0 12px;letter-spacing:-.01em}
+.lede{color:var(--muted);max-width:66ch;margin:0 0 6px}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;
+  padding:18px;box-shadow:var(--shadow);margin-bottom:16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}
+.rec-label{font-size:11px;letter-spacing:.11em;text-transform:uppercase;color:var(--dim);font-weight:700}
+.rec-line{font-size:31px;font-weight:750;letter-spacing:-.02em;margin:6px 0 2px;
+  font-variant-numeric:tabular-nums}
+.rec-sub{font-size:12.5px;color:var(--muted)}
+.tag{display:inline-block;font-size:10px;letter-spacing:.08em;text-transform:uppercase;
+  font-weight:700;padding:3px 8px;border-radius:5px;vertical-align:middle;margin-left:7px}
+.tag-free{background:rgba(10,143,77,.12);color:var(--accent)}
+.tag-paid{background:rgba(139,147,161,.16);color:var(--muted)}
+table{width:100%;border-collapse:collapse;font-size:13.5px}
+th{text-align:left;font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;
+  color:var(--dim);font-weight:700;padding:0 10px 9px;border-bottom:1px solid var(--line)}
+td{padding:10px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:last-child td{border-bottom:none}
+.num{font-variant-numeric:tabular-nums;white-space:nowrap}
+.W{color:var(--win);font-weight:750}
+.L{color:var(--loss);font-weight:750}
+.P{color:var(--push);font-weight:750}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.note{font-size:13px;color:var(--muted)}
+.empty{color:var(--muted);padding:16px 0;font-size:14px}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12.5px;
+  background:rgba(139,147,161,.13);padding:2px 6px;border-radius:4px}
+a{color:var(--accent)}
+.hash{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:11.5px;
+  color:var(--muted);word-break:break-all}
+footer{margin-top:44px;padding-top:20px;border-top:1px solid var(--line);
+  font-size:12.5px;color:var(--dim)}
+.pillrow{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:14px}
+.pill{font-size:12px;padding:6px 13px;border-radius:20px;border:1px solid var(--line);
+  background:var(--panel);color:var(--muted);cursor:pointer;font-family:inherit}
+.pill[aria-pressed="true"]{background:var(--accent);color:#fff;border-color:var(--accent);font-weight:650}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="eyebrow">Verifiable Record</div>
+  <h1>CFB Model — Track Record</h1>
+  <p class="lede">
+    Every pick is published <strong>before kickoff</strong> and hash-chained, so it cannot be
+    edited afterwards. Grades use the line captured when the pick was made, never a
+    line looked up later. Losses are shown exactly as prominently as wins.
+  </p>
+  <p class="note" id="asof"></p>
+
+  <h2>Record</h2>
+  <div class="grid" id="records"></div>
+
+  <div class="panel">
+    <p class="note" style="margin:0">
+      <strong>What is free and what is paid.</strong> The free plays are the Best Bets posted
+      publicly each week — up to three totals and two sides. The subscription is the
+      <em>full validated slate</em>, delivered before kickoff; some weeks that is fewer than
+      five plays, some weeks more. Both records are shown here in full, because the
+      subscription buys <em>timely access to the picks</em>, not access to the results. Those
+      are public either way, and are the only reason to believe any of this.
+    </p>
+  </div>
+
+  <h2>Open picks</h2>
+  <p class="note" id="openNote">Picks published and not yet played.</p>
+  <div class="panel scroll" id="open"></div>
+
+  <h2>Every graded pick</h2>
+  <div class="pillrow" id="filters">
+    <button class="pill" data-f="all" aria-pressed="true">All</button>
+    <button class="pill" data-f="posted" aria-pressed="false">Free plays</button>
+    <button class="pill" data-f="validated" aria-pressed="false">Validated</button>
+  </div>
+  <div class="panel scroll" id="results"></div>
+
+  <h2>Verify this yourself</h2>
+  <div class="panel">
+    <p class="note" style="margin-top:0">
+      Nothing here asks you to take my word for it.
+    </p>
+    <ol class="note" style="margin:0;padding-left:20px">
+      <li>Clone this repository.</li>
+      <li>Run <code>verify_chain.ps1</code>. It recomputes every hash from the card files
+          on disk. Editing any past card breaks its row and every row after it.</li>
+      <li>Check <code>chain.csv.ots</code> at <a href="https://opentimestamps.org">opentimestamps.org</a> —
+          it anchors the chain into the Bitcoin blockchain, so the timestamps do not
+          depend on trusting me.</li>
+      <li>Re-grade it yourself: every result follows from a published card plus a public
+          final score.</li>
+    </ol>
+    <p class="note" style="margin-bottom:0">Latest chain hash: <span class="hash" id="tip">—</span></p>
+  </div>
+
+  <footer>
+    Recreational use only. Nothing here is financial or betting advice, and no outcome is
+    guaranteed. Past results do not predict future results — small samples especially.
+  </footer>
+</div>
+
+<script>
+// Minimal CSV parse that respects quoted fields; both files are small.
+function parseCSV(text){
+  const rows=[]; let row=[], cur='', q=false;
+  for(let i=0;i<text.length;i++){
+    const c=text[i];
+    if(q){
+      if(c==='"'){ if(text[i+1]==='"'){cur+='"';i++;} else q=false; }
+      else cur+=c;
+    } else if(c==='"') q=true;
+    else if(c===','){ row.push(cur); cur=''; }
+    else if(c==='\n'){ row.push(cur); rows.push(row); row=[]; cur=''; }
+    else if(c!=='\r') cur+=c;
+  }
+  if(cur.length||row.length){ row.push(cur); rows.push(row); }
+  if(!rows.length) return [];
+  const head=rows[0].map(h=>h.replace(/^﻿/,'').trim());
+  return rows.slice(1).filter(r=>r.length===head.length&&r.some(v=>v!==''))
+             .map(r=>Object.fromEntries(head.map((h,i)=>[h,r[i]])));
+}
+const $=id=>document.getElementById(id);
+// R writes missing values as the literal string "NA", not an empty field.
+const has=v=>v!=null&&String(v).trim()!==''&&String(v).trim()!=='NA';
+// Sides read as a spread and need an explicit sign; a total does not.
+function fmtLine(kind,line){
+  const n=parseFloat(line); if(!isFinite(n)) return '';
+  return kind==='SIDE' ? (n>0?'+':'')+n : String(n);
+}
+const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+// A win at -110 returns 0.909 units; a loss costs 1. Pushes are excluded.
+function record(rows){
+  const w=rows.filter(r=>r.result==='W').length;
+  const l=rows.filter(r=>r.result==='L').length;
+  const p=rows.filter(r=>r.result==='P').length;
+  const dec=w+l;
+  return {w,l,p,dec,
+    pct: dec? (100*w/dec).toFixed(1)+'%' : '—',
+    units: dec? (w*0.909-l) : 0};
+}
+function card(label,tag,tagClass,rows,sub){
+  const r=record(rows);
+  const u=r.dec? (r.units>=0?'+':'')+r.units.toFixed(2)+'u' : '—';
+  const col=r.dec? (r.units>=0?'var(--win)':'var(--loss)') : 'var(--muted)';
+  return `<div class="panel"><div class="rec-label">${esc(label)}<span class="tag ${tagClass}">${esc(tag)}</span></div>
+    <div class="rec-line">${r.w}&#8209;${r.l}${r.p?'&#8209;'+r.p:''}</div>
+    <div class="rec-sub">${r.pct} ATS &nbsp;·&nbsp; <span style="color:${col};font-weight:700">${u}</span>
+    ${sub?'<br>'+esc(sub):''}</div></div>`;
+}
+
+let RESULTS=[], FILTER='all';
+function renderResults(){
+  const rows = FILTER==='all'? RESULTS : RESULTS.filter(r=>r.basis===FILTER);
+  if(!rows.length){ $('results').innerHTML='<div class="empty">No graded picks in this view yet.</div>'; return; }
+  const body = rows.slice().reverse().map(r=>`<tr>
+    <td class="num">${esc(r.week)}</td>
+    <td>${esc(r.away)} at ${esc(r.home)}</td>
+    <td>${esc(r.pick)} <span class="num" style="color:var(--muted)">${esc(fmtLine(r.kind,r.line))}</span></td>
+    <td><span class="tag ${r.basis==='validated'?'tag-paid':'tag-free'}">${r.basis==='validated'?'validated':'free'}</span></td>
+    <td class="num">${esc(r.score)}</td>
+    <td class="num ${esc(r.result)}">${esc(r.result)}</td></tr>`).join('');
+  $('results').innerHTML=`<table><thead><tr><th>Wk</th><th>Game</th><th>Pick</th>
+    <th>Type</th><th>Score</th><th>Result</th></tr></thead><tbody>${body}</tbody></table>`;
+}
+
+document.querySelectorAll('#filters .pill').forEach(b=>{
+  b.addEventListener('click',()=>{
+    FILTER=b.dataset.f;
+    document.querySelectorAll('#filters .pill').forEach(x=>x.setAttribute('aria-pressed', String(x===b)));
+    renderResults();
+  });
+});
+
+async function grab(f){
+  try{ const r=await fetch(f+'?t='+Date.now()); if(!r.ok) return null; return parseCSV(await r.text()); }
+  catch(e){ return null; }
+}
+
+(async function(){
+  const [res, chain] = await Promise.all([grab('results.csv'), grab('chain.csv')]);
+
+  if(chain && chain.length){
+    const tip=chain[chain.length-1];
+    $('tip').textContent = tip.row_hash || '—';
+    $('asof').textContent = `${chain.length} published entr${chain.length===1?'y':'ies'} · latest ${tip.week_id}, locked ${tip.generated_utc} UTC`;
+  }
+
+  RESULTS = (res||[]).filter(r=>has(r.result));
+  const free = RESULTS.filter(r=>r.basis==='posted');
+  const val  = RESULTS.filter(r=>r.basis==='validated');
+
+  $('records').innerHTML =
+      card('Free plays','free','tag-free',free,'Best Bets posted publicly each week')
+    + card('Validated slate','subscription','tag-paid',val,'The model’s proven rules, week 5 onward')
+    + card('Everything','combined','tag-paid',RESULTS,'Both records pooled');
+
+  if(!RESULTS.length){
+    $('results').innerHTML='<div class="empty">No graded picks yet — the first games have not been played. '
+      +'Published picks appear above under <strong>Open picks</strong>.</div>';
+  } else renderResults();
+
+  // Open picks: published in the newest card, not yet in results.
+  let openHtml='<div class="empty">No open picks right now.</div>';
+  if(chain && chain.length){
+    const tip=chain[chain.length-1].week_id;
+    const card_ = await grab('cards/'+tip+'/sides_card.csv');
+    if(card_){
+      const graded=new Set(RESULTS.map(r=>r.home+'|'+r.away+'|'+r.kind));
+      const open=card_.filter(r=>has(r.posted))
+        .filter(r=>!graded.has(r.home+'|'+r.away+'|SIDE') && !graded.has(r.home+'|'+r.away+'|TOTAL'));
+      if(open.length){
+        openHtml='<table><thead><tr><th>Wk</th><th>Game</th><th>Pick</th><th>Type</th></tr></thead><tbody>'
+          + open.map(r=>`<tr><td class="num">${esc(r.week)}</td>
+              <td>${esc(r.away)} at ${esc(r.home)}</td>
+              <td>${esc(r.posted)}</td>
+              <td><span class="tag ${/validated/.test(r.posted_basis||'')?'tag-paid':'tag-free'}">${/validated/.test(r.posted_basis||'')?'validated':'free'}</span></td>
+            </tr>`).join('') + '</tbody></table>';
+        $('openNote').textContent='Published and not yet played. These were locked in before kickoff — the timestamp is in the chain.';
+      }
+    }
+  }
+  $('open').innerHTML=openHtml;
+})();
+</script>
+</body>
+</html>
