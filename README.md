@@ -47,6 +47,16 @@ is one implementation; reimplementing it yourself is the point.
 `.gitattributes` sets `* -text` so git never rewrites line endings. Without it the
 bytes would differ after cloning on another OS and every hash would fail.
 
+## Posting the digest
+
+The newest `row_hash` is posted publicly each week. Every row folds in the one
+before it, so the latest hash commits to the whole history behind it -- only that
+one needs posting.
+
+```
+powershell -ExecutionPolicy Bypass -File latest_hash.ps1
+```
+
 ## Verifying
 
 ```
