@@ -57,6 +57,20 @@ one needs posting.
 powershell -ExecutionPolicy Bypass -File latest_hash.ps1
 ```
 
+## Independent timestamp proof
+
+`chain.csv.ots` is an [OpenTimestamps](https://opentimestamps.org) proof: it
+anchors the hash of `chain.csv` into the Bitcoin blockchain. Unlike a hash posted
+to a channel someone controls, this needs no witnesses and no trust in the
+publisher -- the block itself carries the time.
+
+To check it, open [opentimestamps.org](https://opentimestamps.org), switch to
+**Verify**, and supply both `chain.csv` and `chain.csv.ots`. It reports the
+Bitcoin block that fixes the file, and therefore the latest moment the whole
+chain up to that point could have existed.
+
+Only the hash of the file is ever sent -- the card contents are not uploaded.
+
 ## Verifying
 
 ```
