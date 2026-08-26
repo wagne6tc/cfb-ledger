@@ -1,0 +1,390 @@
+week,home,away,neutral,pred,spread_open,mkt_margin,edge,side_play,proj_total,total_open,tot_edge,tot_side,tot_play,tot_status,posted,posted_basis
+1,Ole Miss,Louisville,TRUE,31.6,-8.5,8.5,23.1,NA,NA,52.5,NA,NA,NA,NA,Ole Miss -8.5,"early-season (top-2 by edge, outside wk5+ window)"
+1,North Dakota State,Jacksonville State,FALSE,-10.3,-10,10,-20.3,NA,NA,48.5,NA,NA,NA,NA,Jacksonville State +10.0,"early-season (top-2 by edge, outside wk5+ window)"
+1,Oregon,Boise State,FALSE,41,-24.5,24.5,16.5,NA,NA,53.5,NA,NA,NA,NA,NA,NA
+1,Texas A&M,Missouri State,FALSE,53.5,-38.5,38.5,15,NA,NA,52.5,NA,NA,NA,NA,NA,NA
+1,Stanford,Miami,FALSE,-35.9,21.5,-21.5,-14.4,NA,NA,48.5,NA,NA,NA,NA,NA,NA
+1,Penn State,Marshall,FALSE,9.8,-23.5,23.5,-13.7,NA,NA,54.5,NA,NA,NA,NA,NA,NA
+1,Georgia Tech,Colorado,FALSE,-6.1,-7,7,-13.1,NA,NA,51.5,NA,NA,NA,NA,NA,NA
+1,Tulsa,Oklahoma State,FALSE,-24.5,11.5,-11.5,-13,NA,NA,61.5,NA,NA,NA,NA,NA,NA
+1,California,UCLA,FALSE,-10.5,-2.5,2.5,-13,NA,NA,53.5,NA,NA,NA,NA,NA,NA
+1,Auburn,Baylor,TRUE,19.9,-7,7,12.9,NA,NA,58.5,NA,NA,NA,NA,NA,NA
+1,South Florida,Florida International,FALSE,0,-12.5,12.5,-12.5,NA,NA,54.5,NA,NA,NA,NA,NA,NA
+1,Michigan,Western Michigan,FALSE,14.6,-26.5,26.5,-11.9,NA,NA,47.5,NA,NA,NA,NA,NA,NA
+1,Alabama,East Carolina,FALSE,36.5,-25.5,25.5,11,NA,NA,53.5,NA,NA,NA,NA,NA,NA
+1,UNLV,Memphis,FALSE,-7.4,-3,3,-10.4,NA,NA,60.5,NA,NA,NA,NA,NA,NA
+1,Illinois,UAB,FALSE,18.1,-27.5,27.5,-9.4,NA,NA,56.5,NA,NA,NA,NA,NA,NA
+1,Troy,Sam Houston,FALSE,7.8,-17.25,17.25,-9.4,NA,NA,50.5,NA,NA,NA,NA,NA,NA
+1,TCU,North Carolina,TRUE,16.7,-7.5,7.5,9.2,NA,NA,50.5,NA,NA,NA,NA,NA,NA
+1,USC,Fresno State,FALSE,14.1,-23.25,23.25,-9.2,NA,NA,51.5,NA,NA,NA,NA,NA,NA
+1,New Mexico,Central Michigan,FALSE,3.7,-12.5,12.5,-8.8,NA,NA,49,NA,NA,NA,NA,NA,NA
+1,Michigan State,Toledo,FALSE,2.4,-10.5,10.5,-8.1,NA,NA,49.5,NA,NA,NA,NA,NA,NA
+1,Ohio State,Ball State,FALSE,57.9,-50,50,7.9,NA,NA,56.5,NA,NA,NA,NA,NA,NA
+1,Eastern Michigan,San José State,FALSE,10.4,-3.5,3.5,6.9,NA,NA,53.5,NA,NA,NA,NA,NA,NA
+1,Iowa,Northern Illinois,FALSE,22.8,-29.5,29.5,-6.7,NA,NA,43.5,NA,NA,NA,NA,NA,NA
+1,Washington,Washington State,FALSE,14.9,-21.5,21.5,-6.6,NA,NA,50.5,NA,NA,NA,NA,NA,NA
+1,Indiana,North Texas,FALSE,34.7,-40.5,40.5,-5.8,NA,NA,55.5,NA,NA,NA,NA,NA,NA
+1,USC,San José State,FALSE,41.1,-35.5,35.5,5.6,NA,NA,57.5,NA,NA,NA,NA,NA,NA
+1,Florida,Florida Atlantic,FALSE,31,-25.5,25.5,5.5,NA,NA,56.5,NA,NA,NA,NA,NA,NA
+1,Notre Dame,Wisconsin,TRUE,21.9,-16.5,16.5,5.4,NA,NA,47,NA,NA,NA,NA,NA,NA
+1,Eastern Michigan,Sacramento State,FALSE,3.8,-8.5,8.5,-4.7,NA,NA,52.5,NA,NA,NA,NA,NA,NA
+1,Colorado State,Wyoming,FALSE,-0.7,-4,4,-4.7,NA,NA,47.5,NA,NA,NA,NA,NA,NA
+1,South Carolina,Kent State,FALSE,38.2,-34,34,4.2,NA,NA,52.5,NA,NA,NA,NA,NA,NA
+1,Florida State,SMU,FALSE,-6.7,2.5,-2.5,-4.2,NA,NA,52.5,NA,NA,NA,NA,NA,NA
+1,West Virginia,Coastal Carolina,FALSE,21.1,-17.5,17.5,3.6,NA,NA,57.5,NA,NA,NA,NA,NA,NA
+1,Texas,Texas State,FALSE,27,-30.5,30.5,-3.5,NA,NA,59.5,NA,NA,NA,NA,NA,NA
+1,Oklahoma,UTEP,FALSE,37.1,-40.5,40.5,-3.4,NA,NA,50.5,NA,NA,NA,NA,NA,NA
+1,Stanford,Hawai'i,FALSE,6,-3,3,3,NA,NA,50.5,NA,NA,NA,NA,NA,NA
+1,Memphis,Arkansas State,FALSE,13.4,-10.5,10.5,2.9,NA,NA,55.5,NA,NA,NA,NA,NA,NA
+1,Duke,Tulane,FALSE,11.2,-8.5,8.5,2.7,NA,NA,53.5,NA,NA,NA,NA,NA,NA
+1,Pittsburgh,Miami (OH),FALSE,13.9,-16.5,16.5,-2.6,NA,NA,50.5,NA,NA,NA,NA,NA,NA
+1,Houston,Oregon State,FALSE,16.1,-18.5,18.5,-2.4,NA,NA,51.5,NA,NA,NA,NA,NA,NA
+1,Nevada,Western Kentucky,FALSE,-6.6,4.25,-4.25,-2.3,NA,NA,53.5,NA,NA,NA,NA,NA,NA
+1,Nebraska,Ohio,FALSE,21.3,-23.5,23.5,-2.2,NA,NA,47.5,NA,NA,NA,NA,NA,NA
+1,James Madison,Liberty,FALSE,8.2,-6,6,2.2,NA,NA,50.5,NA,NA,NA,NA,NA,NA
+1,Florida State,New Mexico State,FALSE,27.4,-29,29,-1.6,NA,NA,53.5,NA,NA,NA,NA,NA,NA
+1,Mississippi State,UL Monroe,FALSE,29.9,-28.5,28.5,1.4,NA,NA,55.5,NA,NA,NA,NA,NA,NA
+1,LSU,Clemson,FALSE,10.2,-11.5,11.5,-1.3,NA,NA,51.5,NA,NA,NA,NA,NA,NA
+1,Wake Forest,Akron,FALSE,21.3,-22.5,22.5,-1.2,NA,NA,49.5,NA,NA,NA,NA,NA,NA
+1,Virginia,NC State,FALSE,3.4,-3.5,3.5,-0.1,NA,NA,54.5,NA,NA,NA,NA,NA,NA
+1,Hawai'i,UNLV,FALSE,-1.4,1.5,-1.5,0.1,NA,NA,58.5,NA,NA,NA,NA,NA,NA
+1,Rutgers,Massachusetts,FALSE,30.5,-30.5,30.5,0,NA,NA,54.5,NA,NA,NA,NA,NA,NA
+1,Cincinnati,Boston College,FALSE,9.5,-9.5,9.5,0,NA,NA,54.5,NA,NA,NA,NA,NA,NA
+1,Morehead State,Ohio Dominican,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Kentucky Christian,Kentucky Wesleyan,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Virginia State,Barton,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,UNC Pembroke,Wingate,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Charleston (WV),Grand Valley State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Indianapolis,Marian (IN),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Slippery Rock,Minnesota Duluth,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Towson,Maine,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Youngstown State,Mercyhurst,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Delaware State,Stony Brook,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Tusculum,Bluefield State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Bemidji State,Michigan Tech,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Davidson,Concord,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,West Florida,Southern Illinois,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Nicholls,Mississippi Valley State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,SE Louisiana,Houston Christian,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,St. Thomas (MN),Winona State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Presbyterian,UVA Wise,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,West Georgia,Chattanooga,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Western Illinois,Northwestern (IA),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Lindenwood,Charleston Southern,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Austin Peay,Gardner-Webb,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Murray State,Eastern Illinois,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Elon,Glenville State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Sioux Falls,Black Hills State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Minnesota St Moorhead,Northern Michigan,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Saginaw Valley State,McKendree,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Carson Newman,Tiffin,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,West Liberty,Walsh,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Valdosta State,Emory & Henry,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Furman,Anderson (SC),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Seton Hill,East Stroudsburg,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Nebraska Kearney,Wayne State (NE),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Minot State,Emporia State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Texas Wesleyan,Central Oklahoma,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Southwest Baptist,William Woods,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Northern State,Chadron State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Georgetown,Lafayette,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Concordia St. Paul,Quincy,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Drake,South Dakota Mines,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,UT Martin,Central Arkansas,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Northwestern State,Louisiana Christian,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,North Dakota,Long Island University,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Adams State,Western New Mexico,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Pittsburg State,Ferris State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Colorado Mesa,Minnesota State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Southwest Minnesota State,Valley City State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Missouri Western,Augustana (SD),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Angelo State,Fort Hays,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,West Texas,Western Colorado,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,New Mexico Highlands,Eastern New Mexico,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,CSU Pueblo,Central Missouri,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,University of Mary,Rocky Mountain,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Merrimack,Rhode Island,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Villanova,William & Mary,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,New Haven,Marist,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Lenoir Rhyne,Virginia Union,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Fordham,Colgate,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,UAlbany,New Hampshire,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Cal Poly,Idaho,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Chicago State,Roosevelt,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Wagner,Robert Morris,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Lamar,Abilene Christian,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Dayton,Fairmont State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Wheeling,Thomas More,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,West Virginia State,Chowan,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Davenport,Gannon,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Shippensburg,Lock Haven,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,West Virginia Wesleyan,Post,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Elizabeth City State,Fort Valley State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Shorter,Andrew,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Northeastern State,Delta State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,William Jewell,Fort Lewis,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,American International,Monroe,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Valparaiso,Lawrence Tech,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Butler,Georgetown College Kentucky,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,BLUEFIELD,Erskine,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Colorado School of Mines,Western Oregon,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,South Dakota,Central Connecticut,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Portland State,UC Davis,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Upper Iowa,Jamestown,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Central State,Kentucky State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Alabama State,Southern,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Holy Cross,Lehigh,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Northern Arizona,Eastern Washington,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Benedict,Johnson C. Smith,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,East Tennessee State,Campbell,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Richmond,Bucknell,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Ferrum,Catawba,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Edward Waters,Florida Memorial University,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Livingstone,Allen,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Fayetteville State,Shaw,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Stonehill,Bryant,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Norfolk State,Winston-Salem State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,South Carolina State,Savannah State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Indiana State,Southeast Missouri State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,North Carolina A&T,Morgan State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Hampton,Virginia Lynchburg,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Idaho State,VMI,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Wofford,The Citadel,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Truman State,Washburn,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Missouri S&T,Westgate Christian University,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Midwestern State,Missouri Southern State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Lincoln (MO),Central Methodist,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Illinois State,St. Francis (IL),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Alcorn State,Miles,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Mercer,East Texas A&M,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,South Dakota State,Stetson,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Grambling,Clark Atlanta,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Florida A&M,Albany State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Arkansas-Pine Bluff,Morehouse,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,McNeese,Stephen F. Austin,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,North Alabama,Samford,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Western Carolina,Eastern Kentucky,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Texas Southern,North Carolina Central,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Tennessee Tech,Monmouth,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Howard,Alabama A&M,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,UT Rio Grande Valley,UT Permian Basin,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Bethel University Tennessee,Lane College,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Texas A&M-Kingsville,Northwest Missouri State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Sul Ross State,Wayland Baptist,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Tennessee State,Jackson State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Montana,Southern Utah,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Tarleton State,Prairie View A&M,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Northern Colorado,Weber State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Utah Tech,Montana State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,West Alabama,Tuskegee,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Olivet,Millikin,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Morehead State,Kentucky Christian,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Samford,Southern Illinois,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Montclair State,Merchant Marine,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Wayne State (MI),Northwood,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Carson Newman,Thomas,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Assumption,Kutztown,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Glenville State,Millersville,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Fairmont State,Bloomsburg,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,California (PA),Charleston (WV),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Clarion,West Virginia Wesleyan,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Ohio Wesleyan,Bluffton,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,King's,Wilkes,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Wisconsin River Falls,Southern Virginia,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Juniata,Gettysburg,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Delaware,Merrimack,FALSE,NA,-28.5,28.5,NA,NA,NA,55.5,NA,NA,NA,NA,NA,NA
+1,Marietta,Westminster (PA),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,UCF,Bethune-Cookman,FALSE,NA,-41.5,41.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Buffalo,UAlbany,FALSE,NA,-24.5,24.5,NA,NA,NA,48.5,NA,NA,NA,NA,NA,NA
+1,Wooster,Wilmington (OH),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Kennesaw State,West Georgia,FALSE,NA,-22.5,22.5,NA,NA,NA,51.5,NA,NA,NA,NA,NA,NA
+1,Ashland,IU Pennsylvania,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Stony Brook,Lindenwood,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Brockport,Buffalo State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Minot State,Wayne State (NE),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Northern State,Winona State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Minnesota St Moorhead,Concordia St. Paul,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Trine,Chicago,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Minnesota Duluth,Augustana (SD),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Grand Valley State,West Texas,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Edinboro,Ohio Dominican,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Valdosta State,Warner,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Southern Nazarene,Henderson State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Harding,Northwestern (OK),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Arkansas Monticello,Southeastern Oklahoma State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Beloit,Rockford,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Missouri,Arkansas-Pine Bluff,FALSE,NA,-54.5,54.5,NA,NA,NA,60.5,NA,NA,NA,NA,NA,NA
+1,Fort Hays,CSU Pueblo,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Western New Mexico,New Mexico Highlands,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Western Colorado,Angelo State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Central Missouri,Missouri Western,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Millsaps,Belhaven,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Minnesota,Eastern Illinois,FALSE,NA,-43.5,43.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Arkansas Tech,Southwestern Oklahoma State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Ouachita Baptist,East Central,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Oklahoma Baptist,Southern Arkansas,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Chadron State,Nebraska Kearney,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Utah,Idaho,FALSE,NA,-32.5,32.5,NA,NA,NA,56.5,NA,NA,NA,NA,NA,NA
+1,Methodist,Shenandoah,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Nichols,MIT,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Albright,Gallaudet,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Ferris State,Bentley,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Rowan,Mary Hardin Baylor,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Dickinson,Randolph Macon,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Keystone,Alvernia,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Hobart,Alfred,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Springfield,Western New England,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Pace,East Stroudsburg,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Georgia State,North Carolina A&T,FALSE,NA,-28.5,28.5,NA,NA,NA,63.5,NA,NA,NA,NA,NA,NA
+1,Rochester (NY),Case Western Reserve,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Purdue,Indiana State,FALSE,NA,-34.5,34.5,NA,NA,NA,56.5,NA,NA,NA,NA,NA,NA
+1,UMass Dartmouth,Salve Regina,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Norwich,St. Lawrence,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Franklin & Marshall,Lebanon Valley,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Ursinus,Delaware Valley,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Misericordia,Hartwick,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Stevenson,Bridgewater,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Marist,Franklin Pierce,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,McDaniel,Catholic,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Kansas,Long Island University,FALSE,NA,-38.5,38.5,NA,NA,NA,53.5,NA,NA,NA,NA,NA,NA
+1,Carthage,Lakeland,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Pacific (OR),Howard Payne,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Southern Oregon,Western Oregon,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Howard,Richmond,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Wagner,Southern Connecticut State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Stetson,Webber International,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Endicott,Eastern,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Heidelberg,Maryville (TN),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Dean,Fitchburg State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Otterbein,Calvin,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Wabash,Hampden Sydney,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Moravian,Muhlenberg,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Bridgewater State,Curry,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Army,Bryant,FALSE,NA,-36.5,36.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,UConn,Lafayette,FALSE,NA,-19.5,19.5,NA,NA,NA,58.5,NA,NA,NA,NA,NA,NA
+1,New Haven,Stonehill,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Johns Hopkins,Ithaca,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Rensselaer,WPI,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Mass Maritime,Maine Maritime,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Grove City,SUNY Cortland,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Davenport,Truman State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Syracuse,New Hampshire,FALSE,NA,-32.5,32.5,NA,NA,NA,55.5,NA,NA,NA,NA,NA,NA
+1,Plymouth State,New England College,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Utica,Washington & Jefferson,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Hillsdale,McKendree,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Albion,Illinois Wesleyan,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Bowling Green,Tarleton State,FALSE,NA,-2.5,2.5,NA,NA,NA,47.5,NA,NA,NA,NA,NA,NA
+1,Coast Guard,New England,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Georgetown,Lehigh,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Kentucky,Youngstown State,FALSE,NA,-23.5,23.5,NA,NA,NA,62.5,NA,NA,NA,NA,NA,NA
+1,Air Force,Duquesne,FALSE,NA,-30.5,30.5,NA,NA,NA,58.5,NA,NA,NA,NA,NA,NA
+1,Iowa State,Southeast Missouri State,FALSE,NA,-29.5,29.5,NA,NA,NA,53.5,NA,NA,NA,NA,NA,NA
+1,Vermont State Castleton,Westfield State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Adrian,Ohio Northern,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Waynesburg,Capital,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Union,Susquehanna,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Denison,Hope,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Kalamazoo,Kenyon,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Washington and Lee,Wittenberg,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Virginia State,Bowie State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Lincoln (PA),West Chester,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Michigan Tech,Midwestern State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Puget Sound,Lewis & Clark,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Kean,SUNY Morrisville,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Washburn,Colorado School of Mines,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Morehouse,Clark Atlanta,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Shepherd,Frostburg State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Elmhurst,Illinois College,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Colgate,Holy Cross,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,North Central College,Bethel (MN),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Wisconsin Eau Claire,Alma,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Saint Vincent,Hilbert,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Hardin Simmons,Chapman,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Crown,Hamline,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Husson,Framingham State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,William Paterson,Western Connecticut State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,SUNY Maritime,Worcester State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,The College of New Jersey,Lycoming,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Anderson (IN),Allegheny,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Wofford,Gardner-Webb,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Coe,Cornell (IA),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Monmouth,Sacred Heart,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Concord,Bluefield State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Indianapolis,Findlay,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Quincy,Roosevelt,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Ferrum,Emory & Henry,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Carnegie Mellon,John Carroll,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Jamestown,Sioux Falls,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Buena Vista,Benedictine (IL),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,St. Norbert,Carroll (WI),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Wheaton (IL),Mount Union,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Wisconsin Whitewater,Carleton,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Wisconsin Platteville,Aurora,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Wisconsin Oshkosh,Linfield,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Saint John's (MN),Wisconsin La Crosse,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,St. John Fisher,FDU Florham,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Gustavus Adolphus,Central College,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Sewanee,Bethany (WV),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Temple,Rhode Island,FALSE,NA,-10,10,NA,NA,NA,51.5,NA,NA,NA,NA,NA,NA
+1,Manchester,Westminster (MO),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Nebraska Wesleyan,Concordia (MN),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Hanover,Centre,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Georgia,Tennessee State,FALSE,NA,-46.5,46.5,NA,NA,NA,56.5,NA,NA,NA,NA,NA,NA
+1,Montana,Drake,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Campbell,Western Carolina,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,App State,Maine,FALSE,NA,-17.5,17.5,NA,NA,NA,53.5,NA,NA,NA,NA,NA,NA
+1,UTSA,UT Rio Grande Valley,FALSE,NA,-28.5,28.5,NA,NA,NA,59.5,NA,NA,NA,NA,NA,NA
+1,North Dakota State,Fordham,FALSE,NA,-39.5,39.5,NA,NA,NA,57.5,NA,NA,NA,NA,NA,NA
+1,Tennessee,Furman,FALSE,NA,-46.5,46.5,NA,NA,NA,66.5,NA,NA,NA,NA,NA,NA
+1,Charlotte,The Citadel,FALSE,NA,-15.5,15.5,NA,NA,NA,46.5,NA,NA,NA,NA,NA,NA
+1,Navy,Towson,FALSE,NA,-30.5,30.5,NA,NA,NA,53.5,NA,NA,NA,NA,NA,NA
+1,North Dakota,St. Thomas (MN),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Arkansas,North Alabama,FALSE,NA,-40.5,40.5,NA,NA,NA,63.5,NA,NA,NA,NA,NA,NA
+1,Southern Miss,Alcorn State,FALSE,NA,-21,21,NA,NA,NA,50.5,NA,NA,NA,NA,NA,NA
+1,East Tennessee State,Tusculum,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Davidson,Elon,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Alabama State,Lane College,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Mercer,Presbyterian,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Bucknell,Villanova,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,North Carolina Central,Elizabeth City State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Robert Morris,West Virginia State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,William & Mary,Delaware State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Old Dominion,Norfolk State,FALSE,NA,-41.5,41.5,NA,NA,NA,55.5,NA,NA,NA,NA,NA,NA
+1,Chattanooga,Tennessee Tech,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,UT Martin,Chicago State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Jacksonville State,Eastern Kentucky,FALSE,NA,-19.5,19.5,NA,NA,NA,52.5,NA,NA,NA,NA,NA,NA
+1,South Alabama,SE Louisiana,FALSE,NA,-12.5,12.5,NA,NA,NA,52.5,NA,NA,NA,NA,NA,NA
+1,McNeese,Texas Wesleyan,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Southern,Kentucky State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Jackson State,Edward Waters,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Grambling,Central State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Alabama A&M,Miles,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Eastern Washington,Northern Iowa,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Central Arkansas,West Florida,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Western Illinois,Illinois State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Vanderbilt,Austin Peay,FALSE,NA,-30.5,30.5,NA,NA,NA,61.5,NA,NA,NA,NA,NA,NA
+1,Middle Tennessee,Murray State,FALSE,NA,-20.5,20.5,NA,NA,NA,59.5,NA,NA,NA,NA,NA,NA
+1,Texas Tech,Abilene Christian,FALSE,NA,-42.5,42.5,NA,NA,NA,59.5,NA,NA,NA,NA,NA,NA
+1,Georgia Southern,Charleston Southern,FALSE,NA,-25.5,25.5,NA,NA,NA,51.5,NA,NA,NA,NA,NA,NA
+1,Kansas State,Nicholls,FALSE,NA,-40.5,40.5,NA,NA,NA,55.5,NA,NA,NA,NA,NA,NA
+1,Rice,Houston Christian,FALSE,NA,-24.5,24.5,NA,NA,NA,47.5,NA,NA,NA,NA,NA,NA
+1,Utah State,Idaho State,FALSE,NA,-11.5,11.5,NA,NA,NA,64.5,NA,NA,NA,NA,NA,NA
+1,Louisiana Tech,Northwestern State,FALSE,NA,-41.5,41.5,NA,NA,NA,52.5,NA,NA,NA,NA,NA,NA
+1,Virginia Tech,VMI,FALSE,NA,-50.5,50.5,NA,NA,NA,57.5,NA,NA,NA,NA,NA,NA
+1,Northwestern,South Dakota State,FALSE,NA,-12.5,12.5,NA,NA,NA,46.5,NA,NA,NA,NA,NA,NA
+1,Louisiana,Lamar,FALSE,NA,-18.5,18.5,NA,NA,NA,48.5,NA,NA,NA,NA,NA,NA
+1,Maryland,Hampton,FALSE,NA,-45.5,45.5,NA,NA,NA,56.5,NA,NA,NA,NA,NA,NA
+1,BYU,Utah Tech,FALSE,NA,-47.5,47.5,NA,NA,NA,54.5,NA,NA,NA,NA,NA,NA
+1,Stephen F. Austin,East Texas A&M,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Northern Colorado,South Dakota,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Cal Poly,Central Washington,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Southern Utah,Weber State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Montana State,Butler,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,New Mexico State,Mercyhurst,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Arizona State,Morgan State,FALSE,NA,-41.5,41.5,NA,NA,NA,52.5,NA,NA,NA,NA,NA,NA
+1,Arizona,Northern Arizona,FALSE,NA,-31.5,31.5,NA,NA,NA,56.5,NA,NA,NA,NA,NA,NA
+1,San Diego State,Portland State,FALSE,NA,-38.5,38.5,NA,NA,NA,57.5,NA,NA,NA,NA,NA,NA
+1,San Diego,UC Davis,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Sacramento State,Mississippi Valley State,FALSE,NA,-35.5,35.5,NA,NA,NA,56.5,NA,NA,NA,NA,NA,NA
+1,Prairie View A&M,Texas Southern,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Florida A&M,South Carolina State,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
