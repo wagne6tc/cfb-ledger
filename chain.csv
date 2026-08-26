@@ -1,0 +1,2 @@
+"seq","week_id","generated_utc","model_commit","committed_utc","content_sha256","prev_hash","row_hash"
+"1","2026-wk01","2026-08-25 20:22:40","441473a7985f44e2ee82448f5723a188675b4370","2026-08-26 00:24:54","c2d996e5b681709b37b7c51189a2be651fbfe5a184d4b8692267ad8e88da6c4d","GENESIS","4df3e8df5f52708d0faf3998de09d6eeba97819666d76e8beeb0ac9b4f6f70f6"
