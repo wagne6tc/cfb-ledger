@@ -71,6 +71,27 @@ chain up to that point could have existed.
 
 Only the hash of the file is ever sent -- the card contents are not uploaded.
 
+## Results
+
+`results.csv` grades every published pick against the line recorded **when the
+pick was posted**, never a line looked up afterwards. Losses are listed exactly
+as prominently as wins.
+
+| column | meaning |
+|---|---|
+| `basis` | `validated` = met the model's proven wk5+ thresholds. `posted` = shown on the site in weeks 1-4, outside that window |
+| `line` | the number the pick was made against, from the card |
+| `result` | `W` / `L` / `P` (push) |
+
+The two bases are graded separately and never pooled into a single headline
+number. An early-season play was never claimed as validated, and the record
+keeps that distinction permanently.
+
+`results.csv` is not itself hash-chained, and does not need to be: every grade is
+derived from a chained card plus a publicly known final score, so anyone can
+recompute the whole file and check it. The chain protects the inputs; the grades
+follow from them.
+
 ## Verifying
 
 ```
