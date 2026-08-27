@@ -72,11 +72,6 @@ footer{margin-top:44px;padding-top:20px;border-top:1px solid var(--line);
 
   <div class="eyebrow">Verifiable Record</div>
   <h1>CFB Model — Track Record</h1>
-  <p class="lede">
-    Every pick is published <strong>before kickoff</strong> and hash-chained, so it cannot be
-    edited afterwards. Grades use the line captured when the pick was made, never a
-    line looked up later. Losses are shown exactly as prominently as wins.
-  </p>
   <p class="note" id="asof"></p>
 
   <h2>Record</h2>
@@ -87,9 +82,7 @@ footer{margin-top:44px;padding-top:20px;border-top:1px solid var(--line);
       <strong>What is free and what is paid.</strong> The free plays are the Best Bets posted
       publicly each week — up to three totals and two sides. The subscription is the
       <em>full validated slate</em>, delivered before kickoff; some weeks that is fewer than
-      five plays, some weeks more. Both records are shown here in full, because the
-      subscription buys <em>timely access to the picks</em>, not access to the results. Those
-      are public either way, and are the only reason to believe any of this.
+      five plays, some weeks more.
     </p>
   </div>
 
@@ -105,27 +98,10 @@ footer{margin-top:44px;padding-top:20px;border-top:1px solid var(--line);
   </div>
   <div class="panel scroll" id="results"></div>
 
-  <h2>Verify this yourself</h2>
-  <div class="panel">
-    <p class="note" style="margin-top:0">
-      Nothing here asks you to take my word for it.
-    </p>
-    <ol class="note" style="margin:0;padding-left:20px">
-      <li>Clone this repository.</li>
-      <li>Run <code>verify_chain.ps1</code>. It recomputes every hash from the card files
-          on disk. Editing any past card breaks its row and every row after it.</li>
-      <li>Check <code>chain.csv.ots</code> at <a href="https://opentimestamps.org">opentimestamps.org</a> —
-          it anchors the chain into the Bitcoin blockchain, so the timestamps do not
-          depend on trusting me.</li>
-      <li>Re-grade it yourself: every result follows from a published card plus a public
-          final score.</li>
-    </ol>
-    <p class="note" style="margin-bottom:0">Latest chain hash: <span class="hash" id="tip">—</span></p>
-  </div>
-
   <footer>
     Recreational use only. Nothing here is financial or betting advice, and no outcome is
     guaranteed. Past results do not predict future results — small samples especially.
+    &nbsp;·&nbsp; <a href="verify.html">Verify &amp; legal</a>
   </footer>
 </div>
 
@@ -212,7 +188,8 @@ async function grab(f){
 
   if(chain && chain.length){
     const tip=chain[chain.length-1];
-    $('tip').textContent = tip.row_hash || '—';
+    // The chain tip moved to verify.html; guard so its absence cannot abort render.
+    const tipEl=$('tip'); if(tipEl) tipEl.textContent = tip.row_hash || '—';
     $('asof').textContent = `${chain.length} published entr${chain.length===1?'y':'ies'} · latest ${tip.week_id}, locked ${tip.generated_utc} UTC`;
   }
 

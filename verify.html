@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Verify — CFB Model</title>
+<style>
+:root{
+  --bg:#f7f8fa; --panel:#ffffff; --line:#e3e6ec; --ink:#12151a; --muted:#5c6470;
+  --dim:#8b93a1; --accent:#0a8f4d;
+  --shadow:0 1px 2px rgba(16,20,28,.05),0 4px 14px rgba(16,20,28,.05);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#0e1116; --panel:#151a21; --line:#242c37; --ink:#e8ecf2; --muted:#9aa3b1;
+    --dim:#69727f; --accent:#3ddc84;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 14px rgba(0,0,0,.25);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0e1116; --panel:#151a21; --line:#242c37; --ink:#e8ecf2; --muted:#9aa3b1;
+  --dim:#69727f; --accent:#3ddc84;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 14px rgba(0,0,0,.25);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:760px;margin:0 auto;padding:34px 20px 80px}
+.back{font-size:13px;color:var(--muted);display:inline-block;margin-bottom:20px}
+.back:hover{color:var(--accent)}
+h1{font-size:27px;line-height:1.2;margin:0 0 12px;letter-spacing:-.02em}
+h2{font-size:16px;margin:32px 0 10px;letter-spacing:-.01em}
+p{color:var(--muted);max-width:68ch}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;
+  padding:18px;box-shadow:var(--shadow);margin-bottom:16px}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12.5px;
+  background:rgba(139,147,161,.13);padding:2px 6px;border-radius:4px}
+pre{background:rgba(139,147,161,.10);border:1px solid var(--line);border-radius:8px;
+  padding:14px;overflow-x:auto;font-size:12.5px;line-height:1.5;
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;color:var(--ink)}
+a{color:var(--accent)}
+ol,ul{color:var(--muted);max-width:68ch}
+li{margin-bottom:7px}
+.hash{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:11.5px;
+  color:var(--muted);word-break:break-all}
+table{width:100%;border-collapse:collapse;font-size:13.5px;margin-top:6px}
+th{text-align:left;font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;
+  color:var(--dim);font-weight:700;padding:0 10px 9px;border-bottom:1px solid var(--line)}
+td{padding:9px 10px;border-bottom:1px solid var(--line);color:var(--muted);vertical-align:top}
+tr:last-child td{border-bottom:none}
+footer{margin-top:44px;padding-top:20px;border-top:1px solid var(--line);
+  font-size:12.5px;color:var(--dim)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="./">&larr; Back to the track record</a>
+  <h1>Verify &amp; legal</h1>
+
+  <p>
+    Every pick is published <strong>before kickoff</strong> and hash-chained, so it
+    cannot be edited afterwards. Grades use the line captured when the pick was made,
+    never a line looked up later. Losses are shown exactly as prominently as wins.
+  </p>
+
+  <h2>What is recorded</h2>
+  <p>Each week gets a folder under <code>cards/</code>, written before that week's first kickoff.</p>
+  <table>
+    <tr><th>File</th><th>Contents</th></tr>
+    <tr><td><code>run_info.csv</code></td><td>generation timestamp, season, week, which ratings were used, HFA, game count, how many games qualified as plays</td></tr>
+    <tr><td><code>sides_card.csv</code></td><td>every game: predicted margin, the <strong>opening</strong> spread and total captured at that moment, the edge, and whether it qualified as a play</td></tr>
+  </table>
+  <p><code>chain.csv</code> also records <code>model_commit</code> — the exact revision of the
+  model code that produced each card. It is inside the hash, so a published week cannot
+  later be re-attributed to a different model version.</p>
+
+  <h2>The hash chain</h2>
+  <p>Publishing predictions proves nothing if they can be edited afterwards.
+  <code>chain.csv</code> links every week to the one before it, so changing any past card
+  invalidates every row that follows.</p>
+<pre>content_sha256(week):
+    for each file in cards/&lt;week_id&gt;/, sorted by filename (ordinal):
+        line = "&lt;filename&gt;:&lt;sha256 of the file's raw bytes, lowercase hex&gt;"
+    joined = the lines joined with LF, no trailing newline
+    content_sha256 = sha256(UTF-8 bytes of joined)
+
+row_hash = sha256(UTF-8 of "&lt;seq&gt;|&lt;week_id&gt;|&lt;generated_utc&gt;|&lt;model_commit&gt;|&lt;content_sha256&gt;|&lt;prev_hash&gt;")
+prev_hash of the first row = "GENESIS"</pre>
+  <p>That is the whole algorithm — about ten lines in any language.
+  <code>verify_chain.ps1</code> is one implementation; reimplementing it yourself is the point.</p>
+  <p><code>.gitattributes</code> sets <code>* -text</code> so git never rewrites line endings.
+  Without it the bytes would differ after cloning on another OS and every hash would fail.</p>
+
+  <h2>Verify it yourself</h2>
+  <p>Nothing here asks you to take my word for it.</p>
+  <ol>
+    <li>Clone this repository.</li>
+    <li>Run <code>verify_chain.ps1</code>. It recomputes every hash from the card files on
+        disk. Editing any past card breaks its row and every row after it.</li>
+    <li>Check <code>chain.csv.ots</code> at <a href="https://opentimestamps.org">opentimestamps.org</a> —
+        it anchors the chain into the Bitcoin blockchain, so the timestamps do not depend
+        on trusting me.</li>
+    <li>Re-grade it yourself: every result follows from a published card plus a public
+        final score.</li>
+  </ol>
+  <div class="panel">
+    <p style="margin:0">Latest chain hash: <span class="hash" id="tip">—</span></p>
+  </div>
+
+  <h2>Independent timestamp</h2>
+  <p><code>chain.csv.ots</code> anchors the hash of <code>chain.csv</code> into the Bitcoin
+  blockchain. Unlike a hash posted to a channel someone controls, this needs no witnesses
+  and no trust in the publisher — the block itself carries the time. Only the hash of the
+  file is ever sent; the card contents are not uploaded.</p>
+
+  <h2>What this does and does not prove</h2>
+  <p>It proves the cards have not been altered <em>since they were committed</em>, and
+  git's own commit timestamps show when each arrived. It does not by itself prevent the
+  entire history being rewritten and force-pushed. To close that gap the latest
+  <code>row_hash</code> is periodically posted somewhere outside this repository; pin a
+  hash you have seen and re-check it later.</p>
+
+  <h2>Revisions</h2>
+  <p>A week is never silently overwritten. If a card is regenerated, the new version is
+  stored alongside the original as <code>&lt;week_id&gt;_revN</code> and appended as its own
+  chain row. A revision is visible, by design — an append-only log that quietly replaced
+  its own entries would be worth nothing.</p>
+
+  <h2>Results</h2>
+  <p><code>results.csv</code> grades every published pick against the line recorded when
+  the pick was posted. It is not itself hash-chained, and does not need to be: every grade
+  derives from a chained card plus a publicly known final score, so anyone can recompute
+  the whole file and check it. The chain protects the inputs; the grades follow from them.</p>
+
+  <h2>Legal</h2>
+  <p>Recreational use only. Nothing here is financial or betting advice, and no outcome is
+  guaranteed. Past results do not predict future results — small samples especially.</p>
+
+  <footer><a href="./">&larr; Back to the track record</a></footer>
+</div>
+<script>
+// Show the current chain tip so a reader can pin it without opening the CSV.
+fetch('chain.csv?t='+Date.now()).then(r=>r.ok?r.text():null).then(t=>{
+  if(!t) return;
+  const rows=t.trim().split('\n');
+  if(rows.length<2) return;
+  const head=rows[0].replace(/^﻿/,'').split(',').map(h=>h.replace(/"/g,'').trim());
+  const i=head.indexOf('row_hash');
+  if(i<0) return;
+  const last=rows[rows.length-1].split(',').map(v=>v.replace(/"/g,'').trim());
+  document.getElementById('tip').textContent=last[i]||'—';
+}).catch(()=>{});
+</script>
+</body>
+</html>
