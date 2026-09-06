@@ -1,0 +1,28 @@
+week,kickoff,home,away,neutral,pred,spread_open,mkt_margin,edge,side_play,proj_total,total_open,tot_edge,tot_side,tot_play,tot_status,posted,posted_basis
+1,2026-09-06,Ole Miss,Louisville,TRUE,24.9,-8.5,8.5,16.4,NA,NA,52.5,NA,NA,NA,NA,Ole Miss -8.5,"early-season (top-2 by edge, outside wk5+ window)"
+1,2026-09-06,Notre Dame,Wisconsin,TRUE,32.2,-16.5,16.5,15.7,NA,NA,47,NA,NA,NA,NA,Notre Dame -16.5,"early-season (top-2 by edge, outside wk5+ window)"
+1,2026-09-06,Washington,Washington State,FALSE,15.6,-21.5,21.5,-5.9,NA,NA,50.5,NA,NA,NA,NA,NA,NA
+1,2026-09-07,Florida State,SMU,FALSE,-8.1,2.5,-2.5,-5.6,NA,NA,52.5,NA,NA,NA,NA,NA,NA
+1,2026-08-29,Elizabeth City State,Fort Valley State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-08-29,BLUEFIELD,Erskine,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-08-29,Missouri S&T,Westgate Christian University,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-08-30,Sul Ross State,Wayland Baptist,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-08-30,Bethel University Tennessee,Lane College,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-03,Olivet,Millikin,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-03,California (PA),Charleston (WV),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-04,McDaniel,Catholic,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-05,Gustavus Adolphus,Central College,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-05,Mass Maritime,Maine Maritime,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-05,Grove City,SUNY Cortland,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-05,Carnegie Mellon,John Carroll,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-05,St. John Fisher,FDU Florham,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-05,Campbell,Western Carolina,FALSE,NA,4,-4,NA,NA,NA,67.5,NA,NA,NA,NA,NA,NA
+1,2026-09-05,Southern Oregon,Western Oregon,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-05,Seton Hill,West Liberty,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-05,Shorter,Benedict,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-05,Centenary (LA),Westgate Christian University,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-05,Barton,Shaw,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-06,Bridgewater State,Curry,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-06,Prairie View A&M,Texas Southern,FALSE,NA,-10.5,10.5,NA,NA,NA,54.5,NA,NA,NA,NA,NA,NA
+1,2026-09-06,Florida A&M,South Carolina State,TRUE,NA,17.5,-17.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,2026-09-06,Johnson C. Smith,Albany State,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
