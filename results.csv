@@ -1,4 +1,6 @@
 week,week_id,kind,basis,home,away,pick,line,edge,score,actual,result
 1,2026-wk01_rev4,SIDE,posted,North Dakota State,Jacksonville State,Jacksonville State,10,-21.6,33-7,26,L
 1,2026-wk01_rev6,SIDE,posted,Michigan State,Toledo,Toledo,10.5,-17.9,30-20,10,W
+1,2026-wk01_rev7,SIDE,posted,Ole Miss,Louisville,Ole Miss,-8.5,16.4,41-38,3,L
 1,2026-wk01_rev6,SIDE,posted,Stanford,Miami,Miami,-21.5,-15.9,6-45,-39,W
+1,2026-wk01_rev7,SIDE,posted,Notre Dame,Wisconsin,Notre Dame,-16.5,15.7,41-13,28,W
