@@ -12,3 +12,23 @@ week,week_id,kind,basis,home,away,pick,line,edge,score,actual,result
 4,2026-wk04_rev2,SIDE,posted,Tennessee,Texas,Tennessee,6.5,10.5,17-20,-3,W
 4,2026-wk04_rev2,SIDE,posted,LSU,Texas A&M,Texas A&M,3,-2.5,35-6,29,L
 4,2026-wk04_rev2,TOTAL,posted,LSU,Texas A&M,UNDER,57.5,-12.7,35-6,41,W
+5,2026-wk05,SIDE,validated,UConn,Syracuse,UConn,6,18.4,41-42,-1,W
+5,2026-wk05,SIDE,validated,Georgia,Vanderbilt,Vanderbilt,24.25,-12.6,38-14,24,W
+5,2026-wk05,SIDE,validated,South Florida,Temple,South Florida,-6,12,13-17,-4,L
+5,2026-wk05,SIDE,validated,Iowa State,West Virginia,Iowa State,-2,11.3,45-42,3,W
+5,2026-wk05,SIDE,validated,Boise State,Utah State,Utah State,20.25,-10.4,37-18,19,W
+5,2026-wk05,SIDE,validated,Buffalo,Western Michigan,Buffalo,15.75,10.2,17-20,-3,W
+5,2026-wk05,SIDE,validated,North Dakota State,Wyoming,Wyoming,20.5,-10.2,28-0,28,L
+5,2026-wk05,SIDE,validated,Kansas,Middle Tennessee,Middle Tennessee,20.75,-9.8,55-0,55,L
+5,2026-wk05,SIDE,validated,Missouri,Florida,Missouri,3.25,9.8,45-17,28,W
+5,2026-wk05,SIDE,validated,Virginia Tech,Pittsburgh,Pittsburgh,4.75,-8.7,33-35,-2,W
+5,2026-wk05,SIDE,validated,Massachusetts,Eastern Michigan,Eastern Michigan,4,-7.7,14-38,-24,W
+5,2026-wk05,SIDE,validated,Kent State,Ohio,Ohio,-5.5,-7.1,10-13,-3,L
+5,2026-wk05,SIDE,validated,Tulsa,North Texas,North Texas,0.25,-7,44-45,-1,W
+5,2026-wk05,SIDE,validated,UNLV,California,UNLV,-1.75,6,39-31,8,W
+5,2026-wk05,TOTAL,validated,Buffalo,Western Michigan,UNDER,50,-6,17-20,37,W
+5,2026-wk05,TOTAL,validated,New Mexico,UTEP,UNDER,51,-5.8,61-7,68,L
+5,2026-wk05,TOTAL,validated,NC State,Louisville,UNDER,60,-5.5,31-28,59,W
+5,2026-wk05,TOTAL,validated,Clemson,Miami,UNDER,52.25,-4.5,13-41,54,L
+5,2026-wk05,TOTAL,validated,Colorado State,Oregon State,UNDER,60.25,-4.5,26-56,82,L
+5,2026-wk05,TOTAL,validated,Wake Forest,Stanford,UNDER,54.5,-4.5,57-3,60,L

@@ -1,0 +1,59 @@
+week,kickoff,home,away,neutral,proj_total,total_open,tot_edge,tot_side,tot_play,tot_status,posted,posted_basis
+6,2026-10-10,Oklahoma,Texas,TRUE,34.1,48.5,-14.4,UNDER,UNDER,validated,UNDER 48.5,validated
+6,2026-10-10,Nebraska,Indiana,FALSE,59.4,50.5,8.9,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-07,Kennesaw State,Jacksonville State,FALSE,56.3,48.5,7.8,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Penn State,USC,FALSE,63.5,56.5,7,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Kentucky,LSU,FALSE,44.9,49.5,-4.6,UNDER,UNDER,validated,NA,NA
+6,2026-10-10,Alabama,Georgia,FALSE,55,50.5,4.5,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Washington,Iowa,FALSE,45.3,41.5,3.8,OVER,NA,NA,NA,NA
+6,2026-10-10,Oregon,UCLA,FALSE,56.8,60.5,-3.7,UNDER,NA,NA,NA,NA
+6,2026-10-10,BYU,Iowa State,FALSE,53.8,50.5,3.3,OVER,NA,NA,NA,NA
+6,2026-10-10,Missouri,Texas A&M,FALSE,49.3,50.5,-1.2,UNDER,NA,NA,NA,NA
+6,2026-10-07,Troy,Southern Miss,FALSE,47.4,48.5,-1.1,UNDER,NA,NA,NA,NA
+6,2026-10-10,Florida,South Carolina,FALSE,58.4,57.5,0.9,OVER,NA,NA,NA,NA
+6,2026-10-07,Florida International,New Mexico State,FALSE,48.4,47.5,0.9,OVER,NA,NA,NA,NA
+6,2026-10-08,Western Kentucky,Missouri State,FALSE,55.4,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-08,Liberty,Sam Houston,FALSE,55.3,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-08,UTSA,South Florida,FALSE,54.8,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-08,Arkansas State,South Alabama,FALSE,60,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-09,Louisville,Florida State,FALSE,58.7,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,San José State,Wyoming,FALSE,48.1,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Utah State,Washington State,FALSE,46.5,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,West Virginia,Arizona,FALSE,55,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Oklahoma State,UCF,FALSE,48.6,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Bowling Green,Sacramento State,FALSE,48.9,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Army,Tulane,FALSE,57.5,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,NC State,Wake Forest,FALSE,54.3,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Pittsburgh,North Carolina,FALSE,49.1,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Northwestern,Ball State,FALSE,53.2,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,App State,Old Dominion,FALSE,49.7,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Massachusetts,Miami (OH),FALSE,52.8,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Notre Dame,Stanford,FALSE,57.7,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Michigan State,Illinois,FALSE,59.1,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Vanderbilt,Ole Miss,FALSE,68.1,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Akron,Eastern Michigan,FALSE,53.6,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Kansas State,Houston,FALSE,55.9,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Navy,Tulsa,FALSE,53.3,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Ohio,Central Michigan,FALSE,54.2,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,California,Virginia Tech,FALSE,55.7,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Georgia Tech,Duke,FALSE,63.1,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Western Michigan,Kent State,FALSE,49.1,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,North Texas,Charlotte,FALSE,58.9,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Toledo,Buffalo,FALSE,46.8,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Temple,UConn,FALSE,62.7,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,East Carolina,Rice,FALSE,50.6,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Arkansas,Tennessee,FALSE,63.4,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Ohio State,Maryland,FALSE,51.5,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Oregon State,San Diego State,FALSE,46.9,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,UNLV,North Dakota State,FALSE,56.2,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Memphis,UAB,FALSE,61.4,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,UTEP,Nevada,FALSE,45.6,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Marshall,Coastal Carolina,FALSE,57.8,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Virginia,Syracuse,FALSE,47.2,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Northern Illinois,Air Force,FALSE,60.6,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Louisiana Tech,Louisiana,FALSE,46.7,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Georgia Southern,James Madison,FALSE,57,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-11,Purdue,Minnesota,FALSE,57.9,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-11,Utah,Kansas,FALSE,60,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-11,Fresno State,Boise State,FALSE,46.8,NA,NA,NA,NA,NA,NA,NA
+6,2026-10-11,Arizona State,Hawai'i,FALSE,51.5,NA,NA,NA,NA,NA,NA,NA
