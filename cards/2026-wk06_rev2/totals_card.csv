@@ -1,0 +1,60 @@
+week,kickoff,home,away,neutral,proj_total,total_open,tot_edge,tot_side,tot_play,tot_status,posted,posted_basis
+6,2026-10-10,Oklahoma,Texas,TRUE,34.1,48.5,-14.4,UNDER,UNDER,validated,UNDER 48.5,validated
+6,2026-10-10,Georgia Tech,Duke,FALSE,63,48.75,14.2,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Northern Illinois,Air Force,FALSE,60.6,47,13.6,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Arkansas,Tennessee,FALSE,63.4,50.75,12.6,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Army,Tulane,FALSE,57.5,47,10.5,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Michigan State,Illinois,FALSE,59.1,48.75,10.4,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Vanderbilt,Ole Miss,FALSE,68,58.75,9.2,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Nebraska,Indiana,FALSE,59.4,50.5,8.9,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Temple,UConn,FALSE,62.6,53.75,8.9,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-11,Utah,Kansas,FALSE,60,51.75,8.2,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Oregon State,San Diego State,FALSE,46.8,54.75,-8,UNDER,UNDER,validated,NA,NA
+6,2026-10-10,Toledo,Buffalo,FALSE,46.8,54.75,-8,UNDER,UNDER,validated,NA,NA
+6,2026-10-07,Kennesaw State,Jacksonville State,FALSE,56.3,48.5,7.8,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,UNLV,North Dakota State,FALSE,56.1,48.5,7.6,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Ohio,Central Michigan,FALSE,54.2,46.75,7.5,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Penn State,USC,FALSE,63.5,56.5,7,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-11,Purdue,Minnesota,FALSE,57.9,51,6.9,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,West Virginia,Arizona,FALSE,55,60.75,-5.8,UNDER,UNDER,validated,NA,NA
+6,2026-10-10,NC State,Wake Forest,FALSE,54.3,59.75,-5.5,UNDER,UNDER,validated,NA,NA
+6,2026-10-10,Massachusetts,Miami (OH),FALSE,52.8,47.25,5.5,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Ohio State,Maryland,FALSE,51.5,56.25,-4.8,UNDER,UNDER,validated,NA,NA
+6,2026-10-10,Western Michigan,Kent State,FALSE,49.1,44.5,4.6,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Oklahoma State,UCF,FALSE,48.6,53.25,-4.6,UNDER,UNDER,validated,NA,NA
+6,2026-10-10,Kentucky,LSU,FALSE,44.9,49.5,-4.6,UNDER,UNDER,validated,NA,NA
+6,2026-10-10,Alabama,Georgia,FALSE,55,50.5,4.5,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Bowling Green,Sacramento State,FALSE,48.8,44.25,4.5,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,San José State,Wyoming,FALSE,48.1,43.75,4.4,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,Navy,Tulsa,FALSE,53.3,49,4.3,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+6,2026-10-10,UTEP,Nevada,FALSE,45.5,49.5,-4,UNDER,UNDER,validated,NA,NA
+6,2026-10-10,Washington,Iowa,FALSE,45.3,41.5,3.8,OVER,NA,NA,NA,NA
+6,2026-10-08,UTSA,South Florida,FALSE,54.7,51,3.7,OVER,NA,NA,NA,NA
+6,2026-10-10,Oregon,UCLA,FALSE,56.8,60.5,-3.7,UNDER,NA,NA,NA,NA
+6,2026-10-10,Notre Dame,Stanford,FALSE,57.7,54,3.7,OVER,NA,NA,NA,NA
+6,2026-10-10,Memphis,UAB,FALSE,61.4,58,3.4,OVER,NA,NA,NA,NA
+6,2026-10-10,BYU,Iowa State,FALSE,53.8,50.5,3.3,OVER,NA,NA,NA,NA
+6,2026-10-10,Georgia Southern,James Madison,FALSE,57,54,3,OVER,NA,NA,NA,NA
+6,2026-10-10,Utah State,Washington State,FALSE,46.4,43.5,2.9,OVER,NA,NA,NA,NA
+6,2026-10-10,Virginia,Syracuse,FALSE,47.2,50,-2.8,UNDER,NA,NA,NA,NA
+6,2026-10-08,Liberty,Sam Houston,FALSE,55.2,52.5,2.7,OVER,NA,NA,NA,NA
+6,2026-10-10,California,Virginia Tech,FALSE,55.7,53.25,2.5,OVER,NA,NA,NA,NA
+6,2026-10-10,Louisiana Tech,Louisiana,FALSE,46.7,49,-2.3,UNDER,NA,NA,NA,NA
+6,2026-10-10,Akron,Eastern Michigan,FALSE,53.5,51.25,2.2,OVER,NA,NA,NA,NA
+6,2026-10-10,Pittsburgh,North Carolina,FALSE,49.1,47.25,1.9,OVER,NA,NA,NA,NA
+6,2026-10-10,East Carolina,Rice,FALSE,50.6,48.75,1.9,OVER,NA,NA,NA,NA
+6,2026-10-11,Fresno State,Boise State,FALSE,46.7,48.5,-1.8,UNDER,NA,NA,NA,NA
+6,2026-10-08,Arkansas State,South Alabama,FALSE,60,58.25,1.8,OVER,NA,NA,NA,NA
+6,2026-10-10,Missouri,Texas A&M,FALSE,49.3,50.5,-1.2,UNDER,NA,NA,NA,NA
+6,2026-10-10,Florida,South Carolina,FALSE,58.4,57.5,0.9,OVER,NA,NA,NA,NA
+6,2026-10-07,Florida International,New Mexico State,FALSE,48.4,47.5,0.9,OVER,NA,NA,NA,NA
+6,2026-10-11,Arizona State,Hawai'i,FALSE,51.5,50.75,0.8,OVER,NA,NA,NA,NA
+6,2026-10-10,Marshall,Coastal Carolina,FALSE,57.8,58.5,-0.7,UNDER,NA,NA,NA,NA
+6,2026-10-10,App State,Old Dominion,FALSE,49.6,50.25,-0.6,UNDER,NA,NA,NA,NA
+6,2026-10-08,Western Kentucky,Missouri State,FALSE,55.4,56,-0.6,UNDER,NA,NA,NA,NA
+6,2026-10-10,Northwestern,Ball State,FALSE,53.2,52.75,0.5,OVER,NA,NA,NA,NA
+6,2026-10-10,North Texas,Charlotte,FALSE,58.9,58.5,0.4,OVER,NA,NA,NA,NA
+6,2026-10-09,Louisville,Florida State,FALSE,58.7,58.5,0.2,OVER,NA,NA,NA,NA
+6,2026-10-10,Kansas State,Houston,FALSE,55.8,55.75,0,UNDER,NA,NA,NA,NA
+6,2026-10-09,Marist,Columbia,FALSE,NA,44.5,NA,NA,NA,NA,NA,NA
+6,2026-10-10,Alabama State,Florida A&M,FALSE,NA,53.5,NA,NA,NA,NA,NA,NA
