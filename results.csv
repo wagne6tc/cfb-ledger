@@ -32,3 +32,25 @@ week,week_id,kind,basis,home,away,pick,line,edge,score,actual,result
 5,2026-wk05,TOTAL,validated,Clemson,Miami,UNDER,52.25,-4.5,13-41,54,L
 5,2026-wk05,TOTAL,validated,Colorado State,Oregon State,UNDER,60.25,-4.5,26-56,82,L
 5,2026-wk05,TOTAL,validated,Wake Forest,Stanford,UNDER,54.5,-4.5,57-3,60,L
+6,2026-wk06_rev2,SIDE,validated,Arizona State,Hawai'i,Hawai'i,21.25,-12.1,30-12,18,W
+6,2026-wk06_rev2,SIDE,validated,Florida,South Carolina,South Carolina,14.5,-10,19-38,-19,W
+6,2026-wk06_rev2,SIDE,validated,Louisville,Florida State,Florida State,4.75,-8.8,44-20,24,L
+6,2026-wk06_rev2,SIDE,validated,Western Michigan,Kent State,Western Michigan,-13.75,8.4,38-7,31,W
+6,2026-wk06_rev2,SIDE,validated,Pittsburgh,North Carolina,Pittsburgh,-3.75,8.2,17-21,-4,L
+6,2026-wk06_rev2,SIDE,validated,BYU,Iowa State,Iowa State,14.5,-7.5,24-10,14,W
+6,2026-wk06_rev2,SIDE,validated,Oklahoma State,UCF,UCF,10,-7.3,42-28,14,L
+6,2026-wk06_rev2,SIDE,validated,UTSA,South Florida,South Florida,6.75,-7,31-24,7,L
+6,2026-wk06_rev2,SIDE,validated,Nebraska,Indiana,Nebraska,9.5,6.4,17-20,-3,W
+6,2026-wk06_rev2,SIDE,validated,Ohio State,Maryland,Maryland,34.75,-6.4,45-16,29,W
+6,2026-wk06_rev2,SIDE,validated,Alabama,Georgia,Alabama,3,6,17-20,-3,P
+6,2026-wk06_rev2,SIDE,validated,Vanderbilt,Ole Miss,Vanderbilt,10,6,17-52,-35,L
+6,2026-wk06_rev2,SIDE,posted,Oklahoma,Texas,Texas,-6,-0.3,27-24,3,L
+6,2026-wk06_rev2,TOTAL,validated,Oklahoma,Texas,UNDER,48.5,-14.4,27-24,51,L
+6,2026-wk06_rev2,TOTAL,validated,Oregon State,San Diego State,UNDER,54.75,-8,66-14,80,L
+6,2026-wk06_rev2,TOTAL,validated,Toledo,Buffalo,UNDER,54.75,-8,8-23,31,W
+6,2026-wk06_rev2,TOTAL,validated,West Virginia,Arizona,UNDER,60.75,-5.8,31-52,83,L
+6,2026-wk06_rev2,TOTAL,validated,NC State,Wake Forest,UNDER,59.75,-5.5,14-38,52,W
+6,2026-wk06_rev2,TOTAL,validated,Ohio State,Maryland,UNDER,56.25,-4.8,45-16,61,L
+6,2026-wk06_rev2,TOTAL,validated,Kentucky,LSU,UNDER,49.5,-4.6,35-34,69,L
+6,2026-wk06_rev2,TOTAL,validated,Oklahoma State,UCF,UNDER,53.25,-4.6,42-28,70,L
+6,2026-wk06_rev2,TOTAL,validated,UTEP,Nevada,UNDER,49.5,-4,13-30,43,W
