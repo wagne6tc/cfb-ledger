@@ -54,3 +54,15 @@ week,week_id,kind,basis,home,away,pick,line,edge,score,actual,result
 6,2026-wk06_rev2,TOTAL,validated,Kentucky,LSU,UNDER,49.5,-4.6,35-34,69,L
 6,2026-wk06_rev2,TOTAL,validated,Oklahoma State,UCF,UNDER,53.25,-4.6,42-28,70,L
 6,2026-wk06_rev2,TOTAL,validated,UTEP,Nevada,UNDER,49.5,-4,13-30,43,W
+7,2026-wk07,SIDE,validated,Kansas State,Kansas,Kansas,6,-7.6,35-24,11,L
+7,2026-wk07,SIDE,validated,Southern Miss,Arkansas State,Southern Miss,7,7.6,13-23,-10,L
+7,2026-wk07,SIDE,validated,Syracuse,Louisville,Syracuse,13.5,7.5,26-34,-8,W
+7,2026-wk07,SIDE,validated,Texas Tech,Arizona State,Texas Tech,-14.5,7.1,53-25,28,W
+7,2026-wk07,SIDE,validated,North Dakota State,Nevada,Nevada,15.5,-6.8,31-17,14,W
+7,2026-wk07,SIDE,validated,Old Dominion,Georgia Southern,Old Dominion,4,6.3,15-23,-8,L
+7,2026-wk07,SIDE,posted,LSU,Mississippi State,LSU,-11.5,1.6,31-0,31,W
+7,2026-wk07,TOTAL,validated,LSU,Mississippi State,UNDER,58.5,-9.2,31-0,31,W
+7,2026-wk07,TOTAL,validated,Oregon State,Washington State,UNDER,53.5,-7.4,48-30,78,L
+7,2026-wk07,TOTAL,validated,Houston,Oklahoma State,UNDER,61.5,-5.6,35-32,67,L
+7,2026-wk07,TOTAL,validated,UL Monroe,Louisiana Tech,UNDER,56.5,-5.4,0-24,24,W
+7,2026-wk07,TOTAL,validated,Southern Miss,Arkansas State,UNDER,61.5,-4.9,13-23,36,W
