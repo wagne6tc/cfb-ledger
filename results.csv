@@ -84,3 +84,15 @@ week,week_id,kind,basis,home,away,pick,line,edge,score,actual,result
 8,2026-wk08_rev2,TOTAL,validated,App State,James Madison,UNDER,56.5,-4.7,34-31,65,L
 8,2026-wk08_rev2,TOTAL,validated,Arizona State,Kansas State,UNDER,56.5,-4.4,28-17,45,W
 8,2026-wk08_rev2,TOTAL,validated,TCU,West Virginia,UNDER,56.5,-4.3,20-24,44,W
+9,2026-wk09,SIDE,validated,Texas,Mississippi State,Mississippi State,21,-8.5,31-3,28,L
+9,2026-wk09,SIDE,validated,Pittsburgh,Georgia Tech,Pittsburgh,-7.5,7.2,34-11,23,W
+9,2026-wk09,SIDE,validated,Iowa State,Oklahoma State,Iowa State,8.5,6.7,51-49,2,W
+9,2026-wk09,SIDE,validated,Sacramento State,Kent State,Sacramento State,10,6.4,31-10,21,W
+9,2026-wk09,SIDE,posted,Fresno State,Oregon State,Oregon State,-5.5,-0.1,38-22,16,L
+9,2026-wk09,TOTAL,validated,Fresno State,Oregon State,UNDER,58.5,-8.7,38-22,60,L
+9,2026-wk09,TOTAL,validated,San Diego State,Washington State,UNDER,48.5,-6.8,26-20,46,W
+9,2026-wk09,TOTAL,validated,UL Monroe,Southern Miss,UNDER,55.5,-5.5,21-35,56,L
+9,2026-wk09,TOTAL,validated,Syracuse,SMU,UNDER,58.5,-4.9,30-27,57,W
+9,2026-wk09,TOTAL,validated,Texas Tech,Arizona,UNDER,54.5,-4.9,34-26,60,L
+9,2026-wk09,TOTAL,validated,Louisville,Stanford,UNDER,61.5,-4.2,52-24,76,L
+9,2026-wk09,TOTAL,validated,North Texas,Florida Atlantic,UNDER,76.5,-4.1,48-41,89,L
