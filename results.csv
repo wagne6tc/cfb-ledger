@@ -96,3 +96,13 @@ week,week_id,kind,basis,home,away,pick,line,edge,score,actual,result
 9,2026-wk09,TOTAL,validated,Texas Tech,Arizona,UNDER,54.5,-4.9,34-26,60,L
 9,2026-wk09,TOTAL,validated,Louisville,Stanford,UNDER,61.5,-4.2,52-24,76,L
 9,2026-wk09,TOTAL,validated,North Texas,Florida Atlantic,UNDER,76.5,-4.1,48-41,89,L
+10,2026-wk10,SIDE,validated,Minnesota,UCLA,UCLA,-5.5,-7.3,20-34,-14,W
+10,2026-wk10,SIDE,validated,Florida International,Missouri State,Florida International,-4.5,6.9,23-20,3,L
+10,2026-wk10,SIDE,posted,Texas Tech,West Virginia,Texas Tech,-16.5,1.9,53-48,5,L
+10,2026-wk10,TOTAL,validated,Texas Tech,West Virginia,UNDER,65.5,-13.4,53-48,101,L
+10,2026-wk10,TOTAL,validated,Southern Miss,James Madison,UNDER,58.5,-8.5,23-54,77,L
+10,2026-wk10,TOTAL,validated,Oregon State,Texas State,UNDER,72.5,-8,21-42,63,W
+10,2026-wk10,TOTAL,validated,Florida Atlantic,UTSA,UNDER,72.5,-7.6,60-29,89,L
+10,2026-wk10,TOTAL,validated,Sacramento State,Toledo,UNDER,52.5,-6.5,17-20,37,W
+10,2026-wk10,TOTAL,validated,Syracuse,Clemson,UNDER,50.5,-4.8,13-18,31,W
+10,2026-wk10,TOTAL,validated,Troy,Louisiana Tech,UNDER,47.5,-4.3,17-41,58,L
