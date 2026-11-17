@@ -1,0 +1,155 @@
+week,kickoff,home,away,neutral,pred,spread_open,mkt_margin,edge,side_play,proj_total,total_open,tot_edge,tot_side,tot_play,tot_status,posted,posted_basis
+12,2026-11-18,Ohio,Ball State,FALSE,18.7,-10.5,10.5,8.2,Ohio,55,49.5,5.5,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",Ohio -10.5,validated
+12,2026-11-21,Liberty,Western Kentucky,FALSE,25.2,-17.5,17.5,7.7,Liberty,56.3,53.5,2.8,OVER,NA,NA,NA,NA
+12,2026-11-21,Minnesota,Northwestern,FALSE,-10.5,3,-3,-7.5,Northwestern,52.7,42.5,10.2,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-22,Miami,Virginia Tech,FALSE,27.7,-20.5,20.5,7.2,Miami,66.7,61.5,5.2,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-22,Notre Dame,SMU,FALSE,26.6,-20.5,20.5,6.1,Notre Dame,60.9,56.5,4.4,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-22,Louisville,Pittsburgh,FALSE,7.8,-13.5,13.5,-5.7,NA,53,50.5,2.5,OVER,NA,NA,NA,NA
+12,2026-11-20,UCF,Iowa State,FALSE,-3.1,-2.5,2.5,-5.6,NA,53.4,53.5,-0.1,UNDER,NA,NA,NA,NA
+12,2026-11-19,Massachusetts,Akron,FALSE,8.4,-3,3,5.4,NA,53.4,46.5,6.9,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,Jacksonville State,Missouri State,FALSE,15.5,-10.5,10.5,5,NA,53.9,52.5,1.4,OVER,NA,NA,NA,NA
+12,2026-11-21,Wyoming,New Mexico,FALSE,-12.3,7.5,-7.5,-4.8,NA,44.6,37.5,7.1,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,Navy,Memphis,FALSE,-7.7,3.5,-3.5,-4.2,NA,65.9,66.5,-0.6,UNDER,NA,NA,NA,NA
+12,2026-11-22,UAB,UTSA,FALSE,-2.4,6.5,-6.5,4.1,NA,53.7,52.5,1.2,OVER,NA,NA,NA,NA
+12,2026-11-21,Oklahoma,Texas A&M,FALSE,3.7,-7.5,7.5,-3.8,NA,36.1,38.5,-2.4,UNDER,NA,NA,NA,NA
+12,2026-11-21,Florida,Vanderbilt,FALSE,9.9,-13.5,13.5,-3.6,NA,59.3,47.5,11.8,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,Michigan State,Oregon,FALSE,-13,16.5,-16.5,3.5,NA,48.9,45.5,3.4,OVER,NA,NA,NA,NA
+12,2026-11-22,Boise State,San Diego State,FALSE,20,-16.5,16.5,3.5,NA,57.1,62.5,-5.4,UNDER,UNDER,validated,NA,NA
+12,2026-11-18,Kent State,Miami (OH),FALSE,-12.9,9.5,-9.5,-3.4,NA,49.1,45.5,3.6,OVER,NA,NA,NA,NA
+12,2026-11-21,Tulane,North Texas,FALSE,-9.9,6.5,-6.5,-3.4,NA,64.5,57.5,7,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,Florida State,NC State,FALSE,12.8,-9.5,9.5,3.3,NA,61.9,55.5,6.4,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-22,TCU,Utah,FALSE,-10.3,7,-7,-3.3,NA,54.4,46.5,7.9,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,Toledo,Bowling Green,FALSE,18.7,-15.5,15.5,3.2,NA,47.6,48.5,-0.9,UNDER,NA,NA,NA,NA
+12,2026-11-21,Michigan,UCLA,FALSE,-7.1,4,-4,-3.1,NA,39.3,37.5,1.8,OVER,NA,NA,NA,NA
+12,2026-11-22,California,Stanford,FALSE,0.6,2.5,-2.5,3.1,NA,54.6,56.5,-1.9,UNDER,NA,NA,NA,NA
+12,2026-11-20,Temple,Rice,FALSE,6,-3,3,3,NA,57.5,50.5,7,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-22,Kansas State,Arizona,FALSE,-9.9,7,-7,-2.9,NA,57.7,52.5,5.2,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,Illinois,Iowa,FALSE,-5.8,8.5,-8.5,2.7,NA,54.2,40.5,13.7,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-22,San José State,UNLV,FALSE,-4.5,7,-7,2.5,NA,52.3,46.5,5.8,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,Kansas,BYU,FALSE,-3.1,5.5,-5.5,2.4,NA,52.8,47.5,5.3,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,Tulsa,Charlotte,FALSE,24.9,-22.5,22.5,2.4,NA,46,52.5,-6.5,UNDER,UNDER,validated,NA,NA
+12,2026-11-17,Western Michigan,Eastern Michigan,FALSE,16.7,-14.5,14.5,2.2,NA,49.9,46.5,3.4,OVER,NA,NA,NA,NA
+12,2026-11-21,Boston College,Syracuse,FALSE,-0.3,2.5,-2.5,2.2,NA,51.8,50.5,1.3,OVER,NA,NA,NA,NA
+12,2026-11-21,Louisiana,Coastal Carolina,FALSE,12.7,-10.5,10.5,2.2,NA,50.4,51.5,-1.1,UNDER,NA,NA,NA,NA
+12,2026-11-22,South Carolina,Georgia,FALSE,-14.3,16.5,-16.5,2.2,NA,57.8,50.5,7.3,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,Texas,Arkansas,FALSE,18.4,-20.5,20.5,-2.1,NA,49.2,47.5,1.7,OVER,NA,NA,NA,NA
+12,2026-11-22,Arizona State,Oklahoma State,FALSE,-5.1,3,-3,-2.1,NA,53.2,61.5,-8.3,UNDER,UNDER,validated,NA,NA
+12,2026-11-21,Nebraska,Ohio State,FALSE,-5,3,-3,-2,NA,51.8,41.5,10.3,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,Georgia Tech,Wake Forest,FALSE,-22.9,21,-21,-1.9,NA,57.4,56.5,0.9,OVER,NA,NA,NA,NA
+12,2026-11-21,Cincinnati,Colorado,FALSE,4.8,-3,3,1.8,NA,61.9,58.5,3.4,OVER,NA,NA,NA,NA
+12,2026-11-21,Texas State,Washington State,FALSE,12.2,-10.5,10.5,1.7,NA,60,61.5,-1.5,UNDER,NA,NA,NA,NA
+12,2026-11-21,Washington,Indiana,FALSE,-10,8.5,-8.5,-1.5,NA,53.1,43.5,9.6,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,Tennessee,LSU,FALSE,-0,1.5,-1.5,1.5,NA,46.3,46.5,-0.2,UNDER,NA,NA,NA,NA
+12,2026-11-21,Sam Houston,Middle Tennessee,FALSE,-6.9,5.5,-5.5,-1.4,NA,52.2,48.5,3.7,OVER,NA,NA,NA,NA
+12,2026-11-21,Kennesaw State,Florida International,FALSE,2.1,-3.5,3.5,-1.4,NA,47.8,44.5,3.3,OVER,NA,NA,NA,NA
+12,2026-11-22,Nevada,Hawai'i,FALSE,5.4,-4,4,1.4,NA,47.9,40.5,7.4,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,New Mexico State,Delaware,FALSE,-2.2,3.5,-3.5,1.3,NA,54.1,53.5,0.6,OVER,NA,NA,NA,NA
+12,2026-11-21,Florida Atlantic,South Florida,FALSE,-2.7,1.5,-1.5,-1.2,NA,60.6,64.5,-3.9,UNDER,NA,NA,NA,NA
+12,2026-11-21,Southern Miss,South Alabama,FALSE,-5.2,4,-4,-1.2,NA,60.3,66.5,-6.2,UNDER,UNDER,validated,NA,NA
+12,2026-11-22,Fresno State,Colorado State,FALSE,19.3,-20.5,20.5,-1.2,NA,66.8,65.5,1.3,OVER,NA,NA,NA,NA
+12,2026-11-21,Army,East Carolina,FALSE,4.5,-5.5,5.5,-1,NA,54.3,44.5,9.8,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,Virginia,North Carolina,FALSE,0.5,-1.5,1.5,-1,NA,48.8,43.5,5.3,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,Marshall,Georgia State,FALSE,-2.5,1.5,-1.5,-1,NA,58.3,56.5,1.8,OVER,NA,NA,NA,NA
+12,2026-11-21,App State,UL Monroe,FALSE,13.1,-14,14,-0.9,NA,50,49.5,0.5,OVER,NA,NA,NA,NA
+12,2026-11-21,Penn State,Rutgers,FALSE,23.8,-24.5,24.5,-0.7,NA,61.9,50.5,11.4,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,Baylor,Texas Tech,FALSE,-2.9,3.5,-3.5,0.6,NA,48.7,57.5,-8.8,UNDER,UNDER,validated,NA,NA
+12,2026-11-21,Air Force,UTEP,FALSE,22.9,-22.5,22.5,0.4,NA,56.3,47.5,8.8,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,North Dakota State,Northern Illinois,FALSE,25.9,-25.5,25.5,0.4,NA,47.6,45.5,2.1,OVER,NA,NA,NA,NA
+12,2026-11-21,Troy,Georgia Southern,FALSE,-8.1,8.5,-8.5,0.4,NA,49.5,48.5,1,OVER,NA,NA,NA,NA
+12,2026-11-19,Buffalo,Central Michigan,FALSE,2.8,-2.5,2.5,0.3,NA,46.6,44.5,2.1,OVER,NA,NA,NA,NA
+12,2026-11-21,Purdue,Wisconsin,FALSE,-5.7,6,-6,0.3,NA,54.9,45.5,9.4,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-22,Louisiana Tech,Arkansas State,FALSE,13.8,-13.5,13.5,0.3,NA,51,52.5,-1.5,UNDER,NA,NA,NA,NA
+12,2026-11-21,Duke,Clemson,FALSE,12.3,-12.5,12.5,-0.2,NA,48.1,40.5,7.6,OVER,NA,"UNVALIDATED (overs 51.6%, below break-even)",NA,NA
+12,2026-11-21,UConn,Old Dominion,FALSE,13.3,-13.5,13.5,-0.2,NA,49.5,47.5,2,OVER,NA,NA,NA,NA
+12,2026-11-21,West Virginia,Houston,FALSE,-7.6,7.5,-7.5,-0.1,NA,66.6,70.5,-3.9,UNDER,NA,NA,NA,NA
+12,2026-11-21,USC,Maryland,FALSE,17.6,-17.5,17.5,0.1,NA,60.3,57.5,2.8,OVER,NA,NA,NA,NA
+12,2026-11-22,Missouri,Kentucky,FALSE,5.6,-5.5,5.5,0.1,NA,51.1,48.5,2.6,OVER,NA,NA,NA,NA
+12,2026-11-22,Oregon State,Utah State,FALSE,9.4,-9.5,9.5,-0.1,NA,52.8,51.5,1.3,OVER,NA,NA,NA,NA
+12,2026-11-20,Stephen F. Austin,Northwestern State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-20,Nicholls,SE Louisiana,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Ole Miss,Wofford,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Princeton,Pennsylvania,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Richmond,William & Mary,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Holy Cross,Fordham,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Norfolk State,Howard,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Stonehill,Wagner,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Robert Morris,Long Island University,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,VMI,Furman,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Columbia,Cornell,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Susquehanna,Eastern,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Trinity (CT),Rensselaer,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Amherst,Bridgewater State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Central Connecticut,Duquesne,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Stony Brook,Hampton,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,North Carolina A&T,UAlbany,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Mercyhurst,New Haven,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Merrimack,Sacred Heart,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Lafayette,Lehigh,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Maine,New Hampshire,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Illinois State,South Dakota,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Bryant,Rhode Island,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Dartmouth,Brown,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Presbyterian,Dayton,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Western Carolina,The Citadel,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Davidson,Marist,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Towson,Elon,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Bucknell,Colgate,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Campbell,Monmouth,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Villanova,Georgetown,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Eastern Illinois,Charleston Southern,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Butler,Morehead State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Wartburg,Northwestern (MN),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Kentucky State,Carson Newman,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Hardin Simmons,Texas Lutheran,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Mississippi State,Tennessee Tech,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,East Stroudsburg,Assumption,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Northwood,Grand Valley State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Valdosta State,Edward Waters,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Kutztown,Fayetteville State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Ferris State,Truman State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Benedict,Newberry,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Michigan Tech,Minnesota State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Virginia Union,California (PA),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Slippery Rock,Charleston (WV),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,UNC Pembroke,Central State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Findlay,Augustana (SD),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Benedictine (IL),Hanover,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Heidelberg,Monmouth (IL),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Gardner-Webb,Tennessee State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,South Carolina State,Delaware State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Montana State,Montana,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Valparaiso,St. Thomas (MN),FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Alabama,Chattanooga,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,North Carolina Central,Morgan State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Southeast Missouri State,UT Martin,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Abilene Christian,Eastern Kentucky,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Murray State,Northern Iowa,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,North Dakota,Southern Illinois,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,West Georgia,West Florida,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Harding,Washburn,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Northwest Missouri State,Ouachita Baptist,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Southern Utah,Chicago State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Alabama State,Prairie View A&M,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Weber State,Utah Tech,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Lindenwood,Western Illinois,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Mississippi Valley State,Alabama A&M,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Mercer,East Tennessee State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Claremont Mudd Scripps,Huntingdon,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,South Dakota State,Indiana State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Alcorn State,Jackson State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,CSU Pueblo,Midwestern State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Bethune-Cookman,Florida A&M,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Harvard,Yale,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Auburn,Samford,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Texas Southern,Arkansas-Pine Bluff,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,East Texas A&M,Incarnate Word,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Northern Arizona,Northern Colorado,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Central Washington,Western Colorado,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,North Alabama,Tarleton State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,UC Davis,Cal Poly,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Eastern Washington,Portland State,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Central Arkansas,Austin Peay,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Houston Christian,UT Rio Grande Valley,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-21,Idaho State,Idaho,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-22,McNeese,Lamar,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,2026-11-22,San Diego,Stetson,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
