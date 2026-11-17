@@ -106,3 +106,13 @@ week,week_id,kind,basis,home,away,pick,line,edge,score,actual,result
 10,2026-wk10,TOTAL,validated,Sacramento State,Toledo,UNDER,52.5,-6.5,17-20,37,W
 10,2026-wk10,TOTAL,validated,Syracuse,Clemson,UNDER,50.5,-4.8,13-18,31,W
 10,2026-wk10,TOTAL,validated,Troy,Louisiana Tech,UNDER,47.5,-4.3,17-41,58,L
+11,2026-wk11,SIDE,validated,Rice,Tulane,Tulane,3,-6.2,17-20,-3,W
+11,2026-wk11,SIDE,posted,Oklahoma State,Texas Tech,Texas Tech,3.5,-4.1,27-52,-25,W
+11,2026-wk11,TOTAL,validated,Oklahoma State,Texas Tech,UNDER,72.5,-17.9,27-52,79,L
+11,2026-wk11,TOTAL,validated,Tulsa,Florida Atlantic,UNDER,74.5,-13.5,38-21,59,W
+11,2026-wk11,TOTAL,validated,Louisiana Tech,Southern Miss,UNDER,55.5,-9.6,63-31,94,L
+11,2026-wk11,TOTAL,validated,West Virginia,Kansas,UNDER,66.5,-7.4,14-37,51,W
+11,2026-wk11,TOTAL,validated,UTSA,North Texas,UNDER,77.5,-6.3,35-16,51,W
+11,2026-wk11,TOTAL,validated,Washington State,Colorado State,UNDER,67.5,-6.1,73-7,80,L
+11,2026-wk11,TOTAL,validated,LSU,Texas,UNDER,45.5,-5.4,21-22,43,W
+11,2026-wk11,TOTAL,validated,Boise State,Oregon State,UNDER,66.5,-4.1,46-41,87,L
